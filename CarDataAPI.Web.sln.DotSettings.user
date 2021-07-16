@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ff14a7fb_002D469f_002D4559_002D9ee2_002D9eba32281f60/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetCar" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::22547CAE-32D5-4F71-A640-FDD8918F170A::.NETCoreApp,Version=v3.1::CarDataApiController.Tests.CarDataApiControllerUnitTest.GetCar&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::67EFADA7-E510-4F33-8FA2-DFE1EDE2AD64::.NETCoreApp,Version=v3.1::CarDataControllerIntegrationTest.CarDataControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::721B5560-D240-4EF6-816E-A25CED9AB0F9::.NETCoreApp,Version=v3.1::CarDataService.Web.Tests.CarDataApiRepositoryUnitTest.Repository_AddCar&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
